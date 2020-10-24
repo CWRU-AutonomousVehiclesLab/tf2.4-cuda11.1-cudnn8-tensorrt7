@@ -8,3 +8,7 @@ On the other hand, it is fun to homebrew something...
 * CP38 is compiled at Ubuntu 20.04 environment (Compiled on October - 18th) for Duckietown Duckland
 
 **THIS is NIGHTLY! Not intend for scientific use!!!**
+
+## Want more fun?
+
+If you want to see how Frank's sloppy code will run with your graphics card, go to [here](https://github.com/CWRU-AutonomousVehiclesLab/DuckietownBench) where you can find a realisticly written undergad neural network benchmark.
