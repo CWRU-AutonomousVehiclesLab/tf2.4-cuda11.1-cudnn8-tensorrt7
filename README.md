@@ -12,3 +12,7 @@ On the other hand, it is fun to homebrew something...
 ## Want more fun?
 
 If you want to see how Frank's sloppy code will run with your graphics card, go to [here](https://github.com/CWRU-AutonomousVehiclesLab/DuckietownBench) where you can find a realisticly written undergad neural network benchmark.
+
+## Who am I?
+
+Glad you asked... Someone with too much fun at robotics. Contact at [frank1@ieee.org](mailto:frank1@ieee.org)
