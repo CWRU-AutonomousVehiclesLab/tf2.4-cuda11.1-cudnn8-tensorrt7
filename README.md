@@ -5,7 +5,8 @@ We are not responsible for any f*ck up in your deep learning environment! Use at
 On the other hand, it is fun to homebrew something...
 
 * CP35 is compiled at Ubuntu 16.04 environment (Compiled on October - 18th) for Geekerwan Video show
-* CP38 is compiled at Ubuntu 20.04 environment (Compiled on October - 18th) for Duckietown Duckland
+* CP38-2.4.0 is compiled at Ubuntu 20.04 environment (Compiled on October - 24th (RC0)) for Duckietown Duckland
+* CP38-2.5.0 is compiled at Ubuntu 20.04 environment (Compiled on October - 24th) by accident
 
 **THIS is NIGHTLY! Not intend for scientific use!!!**
 
