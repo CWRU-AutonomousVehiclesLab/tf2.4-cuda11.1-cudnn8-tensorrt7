@@ -17,3 +17,6 @@ If you want to see how Frank's sloppy code will run with your graphics card, go 
 ## Who am I?
 
 Glad you asked... Someone with too much fun at robotics. Contact at [frank1@ieee.org](mailto:frank1@ieee.org)
+
+### Note:
+/lib,/lib/i386-linux-gnu,/lib/x86_64-linux-gnu,/usr,/usr/lib,/usr/lib/i386-linux-gnu,/usr/lib/x86_64-linux-gnu,/usr/lib/x86_64-linux-gnu/libfakeroot,/usr/local/cuda,/usr/local/cuda-11.1/targets/x86_64-linux/lib,/usr/local/tensorrt-7.2.3.4
